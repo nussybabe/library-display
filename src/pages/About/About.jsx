@@ -15,9 +15,8 @@ const About = () => {
             <img src = {aboutImg} alt = "" />
           </div>
           <div className='about-text'>
-            <h2 className='about-title fs-26 ls-1'>About Libary-Books</h2>
-            <p className='fs-17'>Am Nusaiba Abdullahi. A student of Licoln University College. Studying Computer Science(software engineering).</p>
-            
+            <h2 className='about-title fs-26 ls-1'>About BookHub</h2>
+            <p className='fs-17'>Am Nusaiba Abdullahi. A student of Lincoln University College. Studying Computer Scince(Software Engineering)</p>
           </div>
         </div>
       </div>
